@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817640763994",
+    "project_id": "labtest-3f0df",
+    "storage_bucket": "labtest-3f0df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817640763994:android:3999fcab60a38c22229e63",
+        "android_client_info": {
+          "package_name": "com.example.firstlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt1a8DZbwYDOrm05sAnApPtV9bTI_hiLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
